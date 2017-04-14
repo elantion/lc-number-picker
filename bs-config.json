@@ -1,0 +1,7 @@
+{
+    "port": 3019,
+    "files": ["./dist/**/*.*"],
+    "server": {
+        "baseDir": "./dist"
+    }
+}
